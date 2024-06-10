@@ -1,2 +1,2 @@
-# repo_simple2
+# Repositorio simple
 Repositorio GitHub 
